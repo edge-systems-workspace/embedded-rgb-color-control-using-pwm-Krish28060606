@@ -6,7 +6,7 @@
  * Red, Green, Blue, Brown (Red+Green), Purple (Red+Blue),
  * Cyan (Green+Blue), and White (All colors).
  * 
- * @author Bhartendu Ji
+ * @author KRISH DUBEY
  * @date 18 Feb 2026
  */
 
